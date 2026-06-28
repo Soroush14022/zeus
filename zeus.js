@@ -2273,7 +2273,7 @@ const HTML_TEMPLATES = {
         </div>
         <h3 class="font-black text-xl text-gray-900 dark:text-white mb-2">تغییر مهم در ساختار کانفیگ‌ها</h3>
         <p class="text-sm text-gray-600 dark:text-gray-400 mb-6 leading-relaxed font-medium">
-            به دلیل ارتقای امنیت و تغییر مسیر (Path) اتصال ، کانفیگ‌های قبل از نسخه 1.3.4 غیرفعال شده‌اند. لطفاً کانفیگ‌های جدید را از لیست کپی کرده و در کلاینت خود جایگزین کنید.
+            به دلیل ارتقای امنیت و تغییر مسیر (Path) اتصال ، کانفیگ‌های قبل از نسخه 1.3.4 غیرفعال شده‌اند. درصورت عدم اتصال لطفاً ساب خود را بروزرسانی کنید .
         </p>
         <button onclick="closePathWarning()" class="w-full py-3.5 bg-red-600 hover:bg-red-700 text-white font-black rounded-xl text-sm transition duration-300 shadow-lg shadow-red-500/25">
             متوجه شدم، کانفیگ‌های جدید را می‌گیرم 
