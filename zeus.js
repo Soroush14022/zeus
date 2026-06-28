@@ -3351,7 +3351,7 @@ const HTML_TEMPLATES = {
                 window.location.reload();
             }
         }
-const CURRENT_VERSION = '1.3.1';
+const CURRENT_VERSION = '1.3.2';
 
 		async function checkForUpdates(isManual = false) {
             try {
